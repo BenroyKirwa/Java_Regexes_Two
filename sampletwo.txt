@@ -1,0 +1,17 @@
+johnjohn
+johnsara
+sarasara
+John j: k, action: new
+John j: k, action: new
+INFO User: JohnDoe, Action: Viewed profile
+INFO User: JohnDoe, Action: Viewed profile
+[2025-01-07 14:34:15] INFO User: JohnDoe, Action: Viewed profile
+[2025-01-07 14:34:15] INFO User: JohnDoe, Action: Viewed profile
+sara
+jane
+INFO User: JohnDoe, Action: Viewed profile
+INFO User: MaryDoe, Action: Viewed profile
+INFO User: JohnDoe, Action: Viewed profile
+ERROR User: JohnDoe, Action: Unauthorized access attempt
+INFO User: JaneDoe, Action: Logout successful
+INFO User: JohnDoe, Action: Logout successful
